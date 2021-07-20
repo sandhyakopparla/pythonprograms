@@ -1,4 +1,4 @@
-a=4
+a=400
 b=8
 modulus=a%b
 print(modulus)
